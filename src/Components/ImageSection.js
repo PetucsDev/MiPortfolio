@@ -10,7 +10,7 @@ function ImageSection() {
                 <img src={resume} alt=""/>
             </div>
             <div className="right-content">
-                <h4>I am <span>Lorem Ipsum</span></h4>
+                <h4>I am <span>Matias Costilla</span></h4>
                 <p className="paragraph">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
                     praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
@@ -27,12 +27,12 @@ function ImageSection() {
                         <p>Service</p>
                     </div>
                     <div className="info">
-                        <p>: Lorem Ipsum</p>
-                        <p>: 36</p>
-                        <p>: Spainsh </p>
-                        <p>: Spanish, French, English </p>
-                        <p>: London, United Kingdom</p>
-                        <p>: Freelance</p>
+                        <p>: Matias Costilla</p>
+                        <p>: 25</p>
+                        <p>: Argentina </p>
+                        <p>: Spanish, English </p>
+                        <p>: Tucumán, Argentina</p>
+                        <p>: Full Stack Developer</p>
                     </div>
                 </div>
                 <PrimaryButton title={'Download Cv'} />

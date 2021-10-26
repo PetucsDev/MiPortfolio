@@ -27,12 +27,12 @@ function Skills() {
                             text={'85%'}
                         />
                         <ProgressBar 
-                            title={'JAVA'}
-                            width={'60%'}
-                            text={'60%'}
+                            title={'POSTGRESQL'}
+                            width={'80%'}
+                            text={'80%'}
                         />
                         <ProgressBar 
-                            title={'PYTHON'}
+                            title={'NODEJS'}
                             width={'95%'}
                             text={'95%'}
                         />
@@ -42,7 +42,7 @@ function Skills() {
                             text={'75%'}
                         />
                         <ProgressBar 
-                            title={'UNITY'}
+                            title={'C#'}
                             width={'75%'}
                             text={'75%'}
                         />
