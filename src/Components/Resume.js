@@ -22,19 +22,19 @@ function Resume() {
                         year={'2021 - 2021'} 
                         title={'Full Stack Developer'}
                         subTitle={'PI Pokemon'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        text={'Creación de app consumiendo la pokeapi y una base de datos local con react, redux y css puro para el front-end. NodeJs con Express para el back-end y por ultimo PostgreSQL como motor de base de datos y Sequelize como ORM.'} 
                     />
                     <ResumeItem 
                         year={'2016 - 2016'} 
                         title={'Pasante de Abastecimiento'}
                         subTitle={'Malteria y Cervecería Quilmes'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        text={' Pasante en el sector de abastecimiento, mi función principal era la de realizar los MRP correspondientes de cada material necesario para poder cumplir con el plan de produccion establecido por la empresa.'} 
                     />
                     <ResumeItem 
                         year={'2021 - 2021'} 
                         title={'Back End Developer'}
                         subTitle={'Tukiteck'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        text={' E-Commerce dedicado a la venta de entradas para eventos en general. Se utilizo PERN stack.'} 
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
@@ -45,19 +45,19 @@ function Resume() {
                         year={'2020 - 2022'} 
                         title={'Tecnicatura Superior en Programación'}
                         subTitle={'Universidad Tecnológica Tucumán'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        text={'Actualmente me encuentro cursando la tecnicatura en la UTN-FRT. Durante el cursado se aprende C#'} 
                     />
                     <ResumeItem 
                         year={'2021 - 2021'} 
                         title={'Full Stack Bootcamp'}
                         subTitle={'Soy Henry'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        text={'+800 horas de cursada intensiva. Entre las tecnologías aprendidas se incluyen HTML, CSS, Javascript, React, Redux, NodeJs, Express, PostgreSQL, Sequelize, Github y la metodología de trabajo ágil SCRUM.'} 
                     />
                     <ResumeItem 
                         year={'2014 - 2018'} 
                         title={'Ingeniería Industrial'}
                         subTitle={'Unsta'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        text={'Realicé hasta 4°Año de la carrera de Ingeniería Industrial en la UNSTA.'} 
                     />
                 </div>
             </InnerLayout>

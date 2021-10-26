@@ -14,9 +14,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Matias Costilla</span></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Atque nihil voluptates ea dolore vel 
-                    repellat? Quia tenetur non quam exercitationem. Lorem ipsum dolor sit amet.
+                        Full Stack Developer
                 </p>
                 <div className="icons">
                     <a href="https://www.facebook.com/matiass.costilla/" className="icon i-facebook">

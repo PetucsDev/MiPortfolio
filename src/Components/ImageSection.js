@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import resume from '../img/resume.jpg';
+import resume from '../img/img1.jpg';
 import PrimaryButton from './PrimaryButton';
 
 function ImageSection() {
@@ -12,9 +12,13 @@ function ImageSection() {
             <div className="right-content">
                 <h4>I am <span>Matias Costilla</span></h4>
                 <p className="paragraph">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
-                    praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi, nesciunt.
+                Tengo 25 años , soy Desarrollador Full Stack orientado al Back-End. 
+                Comencé cursando la carrera en la Universidad Nacional Tecnológica en la Provincia de Tucumán. 
+                Por una parte llegué a ese mundo de la programación buscando una salida laboral importante y 
+                por otro lado luego con el paso del tiempo mientras estaba inmerso en ese mundo de la tecnología 
+                llegué a la conclusión que me apasiona del cuál estoy muy preparado y 
+                con muchas ganas de seguir mi camino con firmeza y dedicación realizando proyectos y 
+                crecer tanto a nivel personal como profesionalmente.
                     
                 </p>
                 <div className="about-info">
